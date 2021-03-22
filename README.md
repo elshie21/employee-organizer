@@ -9,7 +9,7 @@ The Template Engine - Employee Summary application helps users/managers to creat
 -  credits
 -  license
 
-##instalation 
+instalation 
 Node.js is require to run this application as well as Inquire package Npm
 in which can be found using this link:https://www.npmjs.com/package/inquirer/v/0.2.3
 
@@ -23,5 +23,5 @@ in which can be found using this link:https://www.npmjs.com/package/inquirer/v/0
  if you are an intern you will need to in put the name of your school and email
  and if you are an engineer you will add you workID, name , email and github acc
  
- ##Licese 
+# Licese 
  MIT
